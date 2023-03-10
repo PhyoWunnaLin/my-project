@@ -1,0 +1,19 @@
+.parent:hover .icon {
+    display: inline;
+    
+}
+
+.icon {
+    display: none;
+}
+
+.parent:hover .image{
+    opacity: 0.7;
+}
+
+.bg-image{
+    background-image: url('https://i.pinimg.com/564x/93/e1/7d/93e17df5abb3c5de7f89d8edd026bc5c.jpg');
+}
+.body{
+    margin-right: 0;
+}

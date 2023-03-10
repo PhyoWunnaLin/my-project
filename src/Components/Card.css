@@ -1,0 +1,12 @@
+.parent:hover .icon {
+    display: inline;
+    
+}
+
+.icon {
+    display: none;
+}
+
+.parent:hover .image{
+    opacity: 0.7;
+}
